@@ -1,0 +1,7 @@
+1.CRea un archivo llamado .gitignore
+2.Despues añadimos varias reglas, que son rutas de los archivos que
+queremos ignorar, como puede ser:
+	rutas/de/locacion/*.extension---para un grupo con la misma extension
+	ruta/a/carpeta/ignorada --una carpeta
+	ruta/a/archivo.ext	--un solo archivo
+
